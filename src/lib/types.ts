@@ -24,6 +24,7 @@ export type ProjectDetails = {
   description: string;
   url: string;
   githubUrl?: string;
+  adminUrl?: string;
   previewImage?: string | StaticImageData;
   images?: string[];
   technologies: string[];

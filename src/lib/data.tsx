@@ -348,9 +348,10 @@ export const PROJECTS: ProjectDetails[] = [
     name: "Furnisy",
     description:
       "A modern e-commerce platform integrated with a real-time 3D Room Designer. Users can interactively arrange furniture in a 3D space, supported by a scalable backend and a live admin dashboard.",
-    url: "#",
+    url: "https://furnisy-room-designer-app.vercel.app/",
     githubUrl:
       "https://github.com/ydagunawardhana/Furnisy-Room-Designer-App.git",
+    adminUrl: "#",
     images: [
       "/images/Homepage.png",
       "/images/Room_Designer.png",

@@ -3,7 +3,7 @@ import NextLink, { LinkProps as NextLinkProps } from 'next/link';
 
 import { mergeClasses } from '@/lib/utils';
 
-interface LinkProps extends NextLinkProps {
+interface LinkProps extends NextLinkProps, Omit<React.AnchorHTMLAttributes<HTMLAnchorElement>, keyof NextLinkProps> {
   className?: string;
   children?: React.ReactNode;
   noCustomization?: boolean;
