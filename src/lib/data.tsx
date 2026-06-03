@@ -41,13 +41,13 @@ import Logojava from "/public/images/logos/java.svg";
 import Logoflutter from "/public/images/logos/flutter.svg";
 import Logothreejs from "/public/images/logos/threejs.svg";
 import Logofastapi from "/public/images/logos/fastapi.svg";
-import Logofirebase from "/public/images/logos/firebase.svg";
+import Logofirebase from "../../public/images/logos/firebase.svg";
 import Logosqlserver from "/public/images/logos/sqlserver.svg";
 import LogoOpenCV from "/public/images/logos/OpenCV.svg";
 import Logodlib from "/public/images/logos/dlib.svg";
 import LogoNvidia from "/public/images/logos/nvidia.svg";
-import LogoPandas from "/public/images/logos/pandas.svg";
-import LogoPostman from "/public/images/logos/postman.svg";
+import LogoPandas from "../../public/images/logos/pandas.svg";
+import LogoPostman from "../../public/images/logos/postman.svg";
 import Logogroq from "/public/images/logos/groq.svg";
 
 import {
