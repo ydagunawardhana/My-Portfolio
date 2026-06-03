@@ -6,6 +6,7 @@ import './globals.css';
 import Header from '@/components/layout/header';
 import { Providers } from '@/lib/providers';
 import Footer from '@/components/layout/footer';
+import ScrollToTop from '@/components/general/scroll-to-top';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -86,6 +87,7 @@ export default function RootLayout({
           <Header />
           <main className="flex min-h-screen w-full flex-col">{children}</main>
           <Footer />
+          <ScrollToTop />
         </Providers>
       </body>
     </html>

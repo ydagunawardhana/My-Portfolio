@@ -396,7 +396,7 @@ export const PROJECTS: ProjectDetails[] = [
     name: "Medi Core Pharmacy System",
     description:
       "A complete pharmacy automation desktop application designed to streamline inventory management, prescription handling, and sales processing. It features customized, intuitive dashboards for Admins, Pharmacists, and Customers.",
-    url: "#",
+    url: "https://www.linkedin.com/posts/yashan-dinusha_dotnet-softwaredevelopment-windowsforms-ugcPost-7466137304814989312-m6xz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTUkYQBHly6ml9MBjMLYSdoTyPKo9HlyYo",
     githubUrl:
       "https://github.com/ydagunawardhana/Medi-Core-Pharmacy-Management-System.git",
     images: [
