@@ -351,7 +351,7 @@ export const PROJECTS: ProjectDetails[] = [
     url: "https://furnisy-room-designer-app.vercel.app/",
     githubUrl:
       "https://github.com/ydagunawardhana/Furnisy-Room-Designer-App.git",
-    adminUrl: "#",
+    adminUrl: "https://furnisy-room-designer-app-admin.vercel.app/",
     images: [
       "/images/Homepage.png",
       "/images/Room_Designer.png",
