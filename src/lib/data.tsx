@@ -320,7 +320,7 @@ export const PROJECTS: ProjectDetails[] = [
     name: "UniPortal",
     description:
       "An advanced face recognition-based attendance system and student portal. It features a high-precision biometric pipeline and a context-aware AI support assistant for seamless student identification and interaction.",
-    url: "#",
+    url: "https://uni-portal-advanced-face-recognition.vercel.app/",
     githubUrl:
       "https://github.com/ydagunawardhana/Uni-Portal-Advanced-Face-Recognition-Attendance-System.git",
     images: [
@@ -371,9 +371,10 @@ export const PROJECTS: ProjectDetails[] = [
     name: "NexaMart",
     description:
       "A comprehensive full-stack e-commerce web application. It includes secure payment processing, efficient media storage, and a robust dual-authentication system to provide a premium shopping experience.",
-    url: "#",
+    url: "https://e-commerce-full-stack-mern-client.vercel.app/",
     githubUrl:
       "https://github.com/ydagunawardhana/E-Commerce-Full-Stack-MERN.git",
+    adminUrl: "https://e-commerce-full-stack-mern-admin.vercel.app/",
     images: [
       "/images/Home.png",
       "/images/Login Form.png",
