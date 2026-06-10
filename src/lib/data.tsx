@@ -414,6 +414,18 @@ export const PROJECTS: ProjectDetails[] = [
 
 export const CERTIFICATIONS: CertificationDetails[] = [
   {
+    title: "Artificial Intelligence Fundamentals",
+    institutionDate: "IBM SkillsBuild | June 2026",
+  },
+  {
+    title: "Deep Learning with TensorFlow",
+    institutionDate: "Cognitive Class (Powered by IBM) | June 2026",
+  },
+  {
+    title: "Getting Started with AI on Jetson Nano",
+    institutionDate: "NVIDIA | June 2026",
+  },
+  {
     title: "Intro to Programming / Intro to Machine Learning",
     institutionDate: "Kaggle | May 2026",
   },
